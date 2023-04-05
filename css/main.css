@@ -923,9 +923,6 @@ img {
 }
 
 @media print {
-  @page {
-    background-color: #1e2939;
-  }
   body {
     background: #fff;
     padding: 0;
@@ -959,11 +956,11 @@ img {
             align-items: flex-start;
   }
   .skills-container {
-    margin: 28px 30px 0;
+    margin: 40px 26px 0;
   }
-  .skills-container--interests {
+  .skills-container--lang {
     margin-top: 10px;
-    padding-top: 20px;
+    padding-top: 24px;
   }
   .skills-item {
     margin-bottom: 0;
